@@ -1,0 +1,38 @@
+table{
+  /* background: green; */
+}
+
+.imagen img{
+  box-shadow: 0 5px 11px 0 rgba(0,0,0,.18), 0 4px 15px 0 rgba(0,0,0,.15);
+  background: white;
+  margin-right: 10px;
+}
+
+.imagen img:hover{
+  opacity: .9;
+  transition: opacity .15s ease-in-out;
+}
+
+table{
+  padding: 10px;
+  box-shadow: 0 5px 11px 0 rgba(0,0,0,.18), 0 4px 15px 0 rgba(0,0,0,.15)
+}
+
+table th{
+  background: #5c6bc1;
+  color: white;
+}
+
+table th{
+  padding: 10px;
+}
+
+table td{
+  padding: 10px;
+  border-bottom: solid black 1px;
+  border-bottom-width: thin;
+}
+
+.last{
+  border-bottom: solid white 0;
+}

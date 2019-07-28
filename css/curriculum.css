@@ -1,0 +1,16 @@
+body{
+  background: #f6f8fa;
+}
+
+.container{
+  box-shadow: 0 5px 11px 0 rgba(0,0,0,.18), 0 4px 15px 0 rgba(0,0,0,.15);
+}
+
+img{
+  border-radius: 5px;
+
+}
+
+hr{
+  background:  #1f618d ;
+}
